@@ -43,4 +43,5 @@
   <catalogs>Catalog.Справочник1</catalogs>
   <catalogs>Catalog.Справочник2</catalogs>
   <catalogs>Catalog.Справочник3</catalogs>
+  <catalogs>Catalog.Справочник4</catalogs>
 </mdclass:Configuration>
